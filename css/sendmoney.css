@@ -1,12 +1,20 @@
-h1{
+h1 {
+    background-color: rgb(235, 116, 68);
+    border: ridge 2rem #ebd8d8;
+    text-decoration: dashed;
+    border-radius: 15px 15px;
+    text-align: center;
+    margin: 10px;
+    box-shadow: darkred;
+    padding: 10px;
     font-size: 60px;
-    font-family: 'Times New Roman', Times, serif;
-}
-h4{
-    font-size: 40px;
-    font-family: cursive;
 }
 
+h4 {
+    font-size: 40px;
+    font-family: cursive
+    
+}
 table{
     
     font-size:25px;
@@ -48,8 +56,11 @@ th, td{
     font-size: 30px;
     border-radius: 15px;
 }
-
+p{
+    font-size: 25PX;
+    font-family: 'Times New Roman', Times, serif;
     
+}
 footer {
     background-color: rgb(252, 199, 179)
 }
